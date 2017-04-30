@@ -1,0 +1,4 @@
+# Built application files
+*.pkl
+*.gz
+/dataset
